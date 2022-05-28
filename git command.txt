@@ -1,0 +1,13 @@
+pwd---check the current path
+ls---check the directories 
+git clone > clone  the repostory from central to local using url 
+for e.g. --- git clone https://github.com/manju1826/SeleniumCode.git
+
+git init
+git add file name or git add *
+git commit -m "message"
+git push
+
+git branch -a ---to get name of all branch
+git checkout branchname -->to switch from main to branch 
+git pull
